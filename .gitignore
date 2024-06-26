@@ -6,7 +6,6 @@
 docker-compose.override.yml
 .idea
 .php_cs.cache
-.vscode
 todo.txt
 .vagrant
 /data
@@ -28,3 +27,6 @@ package-lock.json
 /storage/dcc-data/
 /stubs
 /vendor
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
